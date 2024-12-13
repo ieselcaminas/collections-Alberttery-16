@@ -24,7 +24,6 @@ public class ExpresionesAritmeticas {
                 }
             }
         }
-
         for (int i = 0; i < terminos.length; i++) {
             if (esNumero(terminos[i])) {
                 numero = Integer.parseInt(" " + terminos[i]);

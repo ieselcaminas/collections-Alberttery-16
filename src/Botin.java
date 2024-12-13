@@ -19,6 +19,7 @@ public class Botin {
             }
         }
         return particion;
+
     }
     public static void main(String[] args) {
        Map<Integer, String> reparto = particion(3, new String[]{"1","2","3","4","5","6","7","8","9"});

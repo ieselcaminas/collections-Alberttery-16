@@ -27,6 +27,7 @@ public class Altura {
         Scanner entrada = new Scanner(System.in);
 
         return entrada.nextInt();
+
     }
     public static ArrayList<Double> leerAlturas(ArrayList<Double> alturas, int numAlumnos ) {
         Scanner sc = new Scanner(System.in);

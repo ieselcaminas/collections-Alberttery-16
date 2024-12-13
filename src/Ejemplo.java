@@ -9,7 +9,6 @@ public class Ejemplo {
         coches.add("3");     //i=2
         int media = 0;
 
-
         ArrayList<Integer> numeros = new ArrayList<Integer>();
         numeros.add(1);
         numeros.add(2);

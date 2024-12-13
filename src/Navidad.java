@@ -21,7 +21,6 @@ public class Navidad {
                 numFinal.put(ultimo, contador + 1);
             }
         }
-
         return numFinal;
     }
 }

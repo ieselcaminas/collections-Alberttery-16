@@ -11,7 +11,6 @@ public class countCountries {
         String pais;
         Integer cuantos;
 
-
         while ((line = reader.readLine())!=null) {
             campos = line.split(",");
             pais = campos[6];

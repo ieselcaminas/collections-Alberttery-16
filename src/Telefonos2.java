@@ -20,7 +20,7 @@ public class Telefonos2 {
         map.put("C", lista);
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Dime un contacto: ");
+        System.out.println("Dime un contacto:");
         String contacto = sc.nextLine();
 
         if (map.containsKey(contacto))

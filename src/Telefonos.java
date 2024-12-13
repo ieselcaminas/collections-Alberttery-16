@@ -9,7 +9,7 @@ public class Telefonos {
         map.put("Papa", "666666666");
         map.put("Brothie", "634570359");
         map.put("Jesucristo", "642783737");
-        map.put("Miau", "616616616");
+        map.put("Miau", "616616617");
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Dime un contacto: ");

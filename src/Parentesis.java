@@ -31,7 +31,6 @@ public class Parentesis {
                 }
             }
         }
-
         return true;
     }
 }

@@ -19,7 +19,7 @@ public class PaisCapital {
         if (map.containsKey(pais)) {
             System.out.println("La capital de " + pais + " es " + map.get(pais) + ".");
         } else {
-            System.out.println("El país introducido no está en la lista o no es válido.");
+            System.out.println("El pais introducido no está en la lista o no es válido.");
         }
 
         scanner.close();

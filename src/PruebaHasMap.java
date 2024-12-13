@@ -3,7 +3,7 @@ import java.util.Map;
 
 public class PruebaHasMap {
     public static void main(String[] args) {
-        Map<String, String> mapa1 = new HashMap<String, String>();
+        Map<String, String> mapa1 = new HashMap<>();
         mapa1.put("rojo", "red");
         mapa1.put("verde", "green");
         mapa1.put("azul", "blue");
