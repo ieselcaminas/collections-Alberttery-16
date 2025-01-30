@@ -1,3 +1,5 @@
+package Ejercicios_Principales;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
